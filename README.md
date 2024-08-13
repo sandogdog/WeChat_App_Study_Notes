@@ -3,4 +3,4 @@
 
 ---
 #### 1.想小程序发送请求记得勾上这个
-![Uploading Snipaste_2024-08-13_15-58-09.png…]()
+![Snipaste_2024-08-13_15-58-09](https://github.com/user-attachments/assets/70671915-dc94-4189-8d25-c731f211c198)
