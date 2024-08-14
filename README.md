@@ -9,3 +9,4 @@
 
 #### 2.小程序目录结构：
 ![b0a1c75ef848df82efd20cd67274362](https://github.com/user-attachments/assets/828ed46d-b5ed-4c3e-9583-3c146f2c0f63)
+![微信图片编辑_20240814113540](https://github.com/user-attachments/assets/feab5673-e95f-40ca-b775-6ec9b559965b)
